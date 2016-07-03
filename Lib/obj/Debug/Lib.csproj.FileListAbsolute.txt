@@ -1,0 +1,4 @@
+F:\pwershareCard1\Lib\bin\Debug\Lib.dll
+F:\pwershareCard1\Lib\bin\Debug\Lib.pdb
+F:\pwershareCard1\Lib\obj\Debug\Lib.dll
+F:\pwershareCard1\Lib\obj\Debug\Lib.pdb

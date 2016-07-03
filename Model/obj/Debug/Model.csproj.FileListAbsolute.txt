@@ -1,0 +1,4 @@
+F:\pwershareCard1\Model\bin\Debug\Model.dll
+F:\pwershareCard1\Model\bin\Debug\Model.pdb
+F:\pwershareCard1\Model\obj\Debug\Model.dll
+F:\pwershareCard1\Model\obj\Debug\Model.pdb
